@@ -51,16 +51,20 @@
 
 ## 🛠 Skills
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,spring,docker,kubernetes,aws,mysql,git,maven,github,idea,postman" />
-</p>
+| Category | Technologies |
+|----------|-------------|
+| Backend | <img src="https://skillicons.dev/icons?i=java" width="18"/> Java &nbsp; <img src="https://skillicons.dev/icons?i=spring" width="18"/> Spring Boot &nbsp; <img src="https://skillicons.dev/icons?i=maven" width="18"/> Maven |
+| Microservices | <img src="https://skillicons.dev/icons?i=spring" width="18"/> Spring Cloud &nbsp; <img src="https://skillicons.dev/icons?i=docker" width="18"/> Docker &nbsp; <img src="https://skillicons.dev/icons?i=kubernetes" width="18"/> Kubernetes |
+| Cloud | <img src="https://skillicons.dev/icons?i=aws" width="18"/> AWS |
+| Database | <img src="https://skillicons.dev/icons?i=mysql" width="18"/> MySQL &nbsp; <img src="https://skillicons.dev/icons?i=mongodb" width="18"/> MongoDB &nbsp; <img src="https://skillicons.dev/icons?i=postgres" width="18"/> SQL |
+| Tools | <img src="https://skillicons.dev/icons?i=git" width="18"/> Git &nbsp; <img src="https://skillicons.dev/icons?i=github" width="18"/> GitHub &nbsp; <img src="https://skillicons.dev/icons?i=idea" width="18"/> IntelliJ &nbsp; <img src="https://skillicons.dev/icons?i=postman" width="18"/> Postman |
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=prep101singh&show_icons=true&theme=tokyonight"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=prep101singh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 </p>
 
 ---
@@ -68,7 +72,7 @@
 ## 🔥 Most Used Languages
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prep101singh&layout=compact&theme=tokyonight"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prep101singh&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
